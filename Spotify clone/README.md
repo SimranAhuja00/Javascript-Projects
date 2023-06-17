@@ -1,5 +1,6 @@
 <h2>Spotify Clone</h2>
-<h4>Features
+<p>A beginner's attempt</p>
+<h4>Features</h4>
 <ul>
   <li>Display a list of songs with their titles, artists, and durations.</li>
   <li>Play and pause songs.</li>
