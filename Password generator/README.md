@@ -4,6 +4,7 @@
 <ul>
   <li>Generate random passwords with customizable length.</li>
   <li>Include special characters, uppercase letters, lowercase letters, and symbols in the generated password.</li>
+  <li>Easy to use</li>
 </ul>
 <img width="1440" alt="image" src="https://github.com/SimranAhuja00/Javascript-Projects/assets/97106836/dd7ddc06-5e17-49ed-b32f-a3ba4d00d3fa">
 <img width="405" alt="image" src="https://github.com/SimranAhuja00/Javascript-Projects/assets/97106836/43aa9c91-9a2d-4009-a47b-cff0a97c0e5b">
